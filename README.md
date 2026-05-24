@@ -1,4 +1,3 @@
-# Playground
 Hi, I’m Jerrod — Data Integration Architect & Senior Data Analyst
 I specialize in enterprise data engineering, ERP integrations, SQL development, and system modernization across large, complex organizations. With 15+ years of experience supporting cross‑functional teams, I design, troubleshoot, and optimize data systems that power financial reporting, analytics, and operational workflows.
 
